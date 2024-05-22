@@ -1,12 +1,9 @@
 <div align="center">
     <h1><a href="#"></a>Discord AI Bot</h1>
     <h3 align="center"><a href="#"></a>Discord bot to interact with <a href="https://github.com/jmorganca/ollama">Ollama</a> as a chatbot</h3>
-    <h3><a href="#"></a><img alt="Stars" src="https://img.shields.io/github/stars/mekb-turtle/discord-ai-bot?display_name=tag&style=for-the-badge" /></h3>
+    <h3><a href="#"></a><img alt="Stars" src="https://img.shields.io/github/stars/coatsnmore/discord-ai-bot?display_name=tag&style=for-the-badge" /></h3>
     <h3><a href="#"></a><img alt="Discord chat with the bot" src="assets/screenshot.png" /></h3>
 </div>
-
-### Archived
-I have decided to archive this project as I no longer have the time to maintain it. If you would like to take over the project, [please let me know](https://github.com/mekb-turtle).
 
 ### Set-up instructions
 1. Install [Node.js](https://nodejs.org) (if you have a package manager, use that instead to install this)
